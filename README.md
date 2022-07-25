@@ -10,8 +10,8 @@
      1 directory, 4 files (Wed Jul 20 06:08:36 JST 2022)
 
 
-# Note: url = https://github.com/hohno-46466/xZone--test--TSVfiles
+Note: url = https://github.com/hohno-46466/xZone--test--TSVfiles
 
-# Note: url = git@github.com:hohno-46466/xZone--test--TSVfiles.git
+Note: url = git@github.com:hohno-46466/xZone--test--TSVfiles.git
 
 -EOF-
