@@ -1,6 +1,6 @@
 # GitHub/xZone--test--TSVfiles
 
-    ./xZone--test--TSVfiles/
+    ./xZone--test--TSVfiles
      ├──  README.md
      ├──  README.md.old
      └──  examples/
@@ -8,7 +8,8 @@
          ├──  sample-2.tsv
          └──  sample-3.tsv
      
-     1 directory, 5 files (Fri Aug 12 06:05:44 JST 2022)
+     1 directory, 5 files (Sun Aug 14 23:18:03 JST 2022)
+
 
 Note: URL = https://github.com/hohno-46466/xZone--test--TSVfiles
 
