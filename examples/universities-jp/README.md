@@ -9,11 +9,13 @@ Note2: According to the information on this site, this content was last updated 
 
     ./universities-jp/
      ├──  README.md
-     ├──  universities-chubu.tsv
-     ├──  universities-ishikawa.tsv
-     └──  universities-japan.tsv
+     ├──  universities-chubu.tsv -> universities-region-chubu.tsv
+     ├──  universities-ishikawa.tsv -> universities-pref-ishikawa.tsv
+     ├──  universities-japan.tsv
+     ├──  universities-pref-ishikawa.tsv
+     └──  universities-region-chubu.tsv
      
-     0 directories, 4 files (Mon Aug 29 05:32:19 JST 2022)
+     0 directories, 6 files (Tue Aug 30 12:22:46 JST 2022)
 
 
 * universities-ishikawa.tsv	- 石川県の大学の住所
