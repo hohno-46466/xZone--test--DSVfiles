@@ -2,15 +2,6 @@
 
 This repository contains some examples of the TSV (Tab-Separated Values) format file
 
-See also:
-
-* How To Use Tab Separated Value (TSV) Files
-https://www.imf.org/external/help/tsv.htm
-
-* Tab-Separated Values
-https://ja.wikipedia.org/wiki/Tab-Separated_Values
-
-    
     ./xZone--test--TSVfiles/
      ├──  README.md
      ├──  README.md.old
@@ -29,7 +20,15 @@ https://ja.wikipedia.org/wiki/Tab-Separated_Values
      
      2 directories, 12 files (Tue Aug 30 12:25:22 JST 2022)
 
+See also:
 
+* How To Use Tab Separated Value (TSV) Files
+https://www.imf.org/external/help/tsv.htm
+
+* Tab-Separated Values
+https://ja.wikipedia.org/wiki/Tab-Separated_Values
+
+    
 Note: URL = https://github.com/hohno-46466/xZone--test--TSVfiles
 
 Note: URL = git@github.com:hohno-46466/xZone--test--TSVfiles.git
