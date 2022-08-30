@@ -10,11 +10,14 @@
          ├──  sample-3.tsv
          └──  universities-jp/
              ├──  README.md
-             ├──  universities-chubu.tsv
-             ├──  universities-ishikawa.tsv
-             └──  universities-japan.tsv
+             ├──  universities-chubu.tsv -> universities-region-chubu.tsv
+             ├──  universities-ishikawa.tsv -> universities-pref-ishikawa.tsv
+             ├──  universities-japan.tsv
+             ├──  universities-pref-ishikawa.tsv
+             └──  universities-region-chubu.tsv
      
-     2 directories, 10 files (Mon Aug 29 05:40:54 JST 2022)
+     2 directories, 12 files (Tue Aug 30 12:25:22 JST 2022)
+
 
 Note: URL = https://github.com/hohno-46466/xZone--test--TSVfiles
 
