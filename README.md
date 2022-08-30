@@ -4,10 +4,10 @@ This repository contains some examples of the TSV (Tab-Separated Values) format 
 
 See also:
 
-How To Use Tab Separated Value (TSV) Files
+* How To Use Tab Separated Value (TSV) Files
 https://www.imf.org/external/help/tsv.htm
 
-Tab-Separated Values
+* Tab-Separated Values
 https://ja.wikipedia.org/wiki/Tab-Separated_Values
 
     ./xZone--test--TSVfiles/
