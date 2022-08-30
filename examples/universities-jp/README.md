@@ -18,9 +18,9 @@ Note2: According to the information on this site, this content was last updated 
 
 * universities-ishikawa.tsv	- 石川県の大学の住所
 
-* universities-japan.tsv	- 全国の大学の住所
-
 * universities-chubu.tsv	- 中部地方の大学の住所
+
+* universities-japan.tsv	- 全国の大学の住所
 
 
 Note: URL = https://github.com/hohno-46466/xZone--test--TSVfiles
