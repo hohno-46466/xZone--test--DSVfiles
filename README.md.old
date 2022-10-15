@@ -2,7 +2,7 @@
 
 This repository contains some examples of the TSV (Tab-Separated Values) format file
 
-     ./xZone--test--TSVfiles
+    ./xZone--test--TSVfiles
      ├──  README.md
      ├──  README.md.old
      └──  examples/
@@ -12,6 +12,8 @@ This repository contains some examples of the TSV (Tab-Separated Values) format 
          ├──  sample-1.tsv
          ├──  sample-2.tsv
          ├──  sample-3.tsv
+         ├──  sample2.csv
+         ├──  sample2.tsv
          └──  universities-jp/
              ├──  README.md
              ├──  universities-chubu.tsv -> universities-region-chubu.tsv
@@ -20,7 +22,7 @@ This repository contains some examples of the TSV (Tab-Separated Values) format 
              ├──  universities-pref-ishikawa.tsv
              └──  universities-region-chubu.tsv
      
-     3 directories, 13 files (Fri Sep  9 06:46:41 JST 2022)
+     3 directories, 15 files (Thu Oct  6 10:39:11 JST 2022)
 
 
 See also:
