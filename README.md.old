@@ -22,7 +22,7 @@ This repository contains some examples of the TSV (Tab-Separated Values) format 
              ├──  universities-pref-ishikawa.tsv
              └──  universities-region-chubu.tsv
      
-     3 directories, 15 files (Thu Oct  6 10:39:11 JST 2022)
+     3 directories, 15 files (Sat Oct 15 22:54:08 JST 2022)
 
 
 See also:
